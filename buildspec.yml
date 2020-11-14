@@ -11,5 +11,5 @@ phases:
 artifacts:
   files:
     - my-web-app.war
-    - .ebextensions/*
+    - .ebextensions/*.config
   base-directory: 'target/my-web-app'
